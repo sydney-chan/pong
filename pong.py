@@ -1,5 +1,3 @@
-#     https://www.101computing.net/pong-tutorial-using-pygame-getting-started/
-
 import pygame
 from paddle import Paddle
 from ball import Ball
